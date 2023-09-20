@@ -69,5 +69,15 @@ export default {
       title: 'Discount',
       type: 'string',
     },
+    {
+      name: 'rating',
+      title: 'Rating',
+      type: 'number',
+    },
+    {
+      name: 'review',
+      title: 'Reviews',
+      type: 'number',
+    },
   ],
 }
